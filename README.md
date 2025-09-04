@@ -35,7 +35,7 @@ Based on Aurélien APTEL <aurelien dot aptel at gmail dot com> bt source code.
 -------
 # Kev's Notes
 
-Trabajar en ambientes controlados por IT es un dolor de cabeza, uno se arrgla muchos problemas
+Trabajar en ambientes controlados por IT es un dolor de cabeza, uno se arregla muchos problemas
 compliando su propio terminal.
 Para usar los temas, seguir esta guia: 
 https://st.suckless.org/patches/solarized/
